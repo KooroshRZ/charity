@@ -16,7 +16,7 @@
     "composer-network"
   ],
   "author": "kourosh",
-  "email": "koorosh.rajabzadeh@gmail.com",
+  "email": "email@email.com",
   "license": "Apache-2.0",
   "devDependencies": {
     "composer-admin": "^0.20.8",
